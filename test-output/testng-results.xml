@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T21:38:42 IST" name="AutomationAnywhereSuite" finished-at="2023-07-24T21:40:58 IST" duration-ms="135962">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T21:38:42 IST" name="Automation Test" finished-at="2023-07-24T21:40:58 IST" duration-ms="135962">
+      <class name="com.qa.testscripts.AutomationAnywhereLogo_TestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testscripts.AutomationAnywhereLogo_TestNG@1b11171f]" started-at="2023-07-24T21:38:42 IST" name="setUp" finished-at="2023-07-24T21:39:14 IST" duration-ms="31732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="visibilityOfLogo()[pri:1, instance:com.qa.testscripts.AutomationAnywhereLogo_TestNG@1b11171f]" started-at="2023-07-24T21:39:54 IST" name="visibilityOfLogo" finished-at="2023-07-24T21:39:54 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfLogo -->
+        <test-method signature="verifyingRequestDemoButton()[pri:2, instance:com.qa.testscripts.AutomationAnywhereLogo_TestNG@1b11171f]" started-at="2023-07-24T21:39:54 IST" name="verifyingRequestDemoButton" finished-at="2023-07-24T21:39:54 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingRequestDemoButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscripts.AutomationAnywhereLogo_TestNG@1b11171f]" started-at="2023-07-24T21:40:56 IST" name="tearDown" finished-at="2023-07-24T21:40:57 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.AutomationAnywhereLogo_TestNG -->
+      <class name="com.qa.testscripts.AutomationAnywhereMenu_TestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:39:14 IST" name="setUp" finished-at="2023-07-24T21:39:53 IST" duration-ms="39405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingProductsLink()[pri:1, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:39:54 IST" name="verifyingProductsLink" finished-at="2023-07-24T21:40:30 IST" duration-ms="36062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingProductsLink -->
+        <test-method signature="verifyingSolutionsLink()[pri:2, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:40:30 IST" name="verifyingSolutionsLink" finished-at="2023-07-24T21:40:36 IST" duration-ms="6027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingSolutionsLink -->
+        <test-method signature="verifyingResourcesLink()[pri:3, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:40:36 IST" name="verifyingResourcesLink" finished-at="2023-07-24T21:40:44 IST" duration-ms="7819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingResourcesLink -->
+        <test-method signature="verifyingBeyondRPALink()[pri:4, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:40:44 IST" name="verifyingBeyondRPALink" finished-at="2023-07-24T21:40:52 IST" duration-ms="7767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingBeyondRPALink -->
+        <test-method signature="verifyingCompanyLink()[pri:5, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:40:52 IST" name="verifyingCompanyLink" finished-at="2023-07-24T21:40:56 IST" duration-ms="3676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingCompanyLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscripts.AutomationAnywhereMenu_TestNG@59505b48]" started-at="2023-07-24T21:40:57 IST" name="tearDown" finished-at="2023-07-24T21:40:58 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.AutomationAnywhereMenu_TestNG -->
+    </test> <!-- Automation Test -->
+  </suite> <!-- AutomationAnywhereSuite -->
+</testng-results>
